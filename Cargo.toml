@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "A stackless Python 3 interpreter written in Rust — NaN-boxed values, zero dependencies"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/pegausheavy/python-rs"
+repository = "https://github.com/pegasusheavy/python-rs"
 keywords = ["python", "interpreter", "vm", "bytecode", "stackless"]
 categories = ["compilers", "command-line-utilities"]
 
