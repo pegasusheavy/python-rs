@@ -1,6 +1,6 @@
 [package]
 name = "python-rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A stackless Python 3 interpreter written in Rust — NaN-boxed values, zero dependencies"
 license = "MIT OR Apache-2.0"
